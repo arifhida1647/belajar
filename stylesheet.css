@@ -1,0 +1,152 @@
+
+title{
+    color: aqua;
+    background-color: cornsilk;
+}
+
+li{
+    list-style: none;
+}
+.header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+}
+
+.main {
+    padding-top:100px;
+    padding-bottom:100px;
+    padding-left:80px;
+    padding-right:80px;
+    background-color: cornsilk;
+  }
+
+  .footer {
+    background-color: cornflowerblue;
+    height: 200px;
+    padding: 40px;
+    color: white;
+  }
+
+.header-list li{
+    
+    float: left;
+    padding: 33px 20px;
+    background-color: #26d0c9;
+}
+
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.footer-logo{
+    font-size:x-large;
+    padding-bottom: 30px;
+}
+   
+
+.footer ul {
+    padding-top: 20px;
+
+}
+
+
+.copy-container span{
+    color: rgb(235, 151, 165);
+}
+.copy-container h1{
+    font-size:140px;  
+  }
+  .copy-container h2{
+    font-size:60px;
+  }
+
+  .contents-item img{
+    height:300px;
+    width: 300px;
+}
+
+.section-title{
+    border-bottom: 20px solid rgb(253, 4, 170);
+    text-align: center;
+}
+
+.contents-item{
+    float: left;
+    font-size:x-large;
+    margin-right: 50px;
+}
+.contents{
+
+    height: 500px;
+}
+.section-title1 {
+    font-size:xx-large;
+    border-bottom: 5px solid rgb(0, 0, 0);
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.contents-item p{
+    font-style: bold;
+    margin-top: 20px;
+}
+
+
+.contact-form{
+    padding-top:100px;
+}
+
+.pesan{
+    width:400px;
+    height: 100px;
+    background-color: palegoldenrod;
+}
+.judul {
+    padding:30px 0px;
+    font-size: x-large;
+    text-align:center;
+}
+.cetak-form {
+    text-align: center;
+}
+
+.judul b{
+    font-size: x-large;
+}
+.copyright {
+    text-align:center ;
+    font-size: small;
+    padding-top:170px;
+}
+
+
+.footer-list{
+    float: left;
+    margin-right:250px;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
+.contact-form select{
+    background-color:palegoldenrod;
+}
+
+.pilihan{
+    background-color:palegoldenrod;
+}
+.contact-form select{
+    background-color:palegoldenrod;
+}
+
+.pesan-pendek input{
+    background-color:palegoldenrod;
+}
+
+.pesan-panjang textarea{
+    background-color: palegoldenrod;
+}
